@@ -1,4 +1,4 @@
-# Powerbi-sales-report
+# PowerBI-sales-report
 Power BI report visualizing sales by product category
 This repository contains a Power BI report that analyzes sales performance by product category using a star schema data model with fact and dimension tables.
 
